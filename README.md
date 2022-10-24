@@ -1,7 +1,7 @@
 ### Olá, eu sou o Will Souza!! 👋
 
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://beacons.ai/williansouza">
   <img src="https://github-readme-stats.vercel.app/api?username=WillSouzaBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillSouzaBR&layout=compact&langs_count=7&theme=dracula"/>
